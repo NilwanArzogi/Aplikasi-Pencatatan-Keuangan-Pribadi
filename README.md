@@ -29,7 +29,7 @@ Mendukung penyimpanan data ke file `.csv` agar data tidak hilang.
    ```bash
    java -jar Aplikasi.Pencatatan.Keuangan.Pribadi.jar
 
-## ⚠️ Catatan Penting (Windows SmartScreen)
+## ⚠️ Catatan Penting (Windows)
 
 Ketika pertama kali menjalankan file **.exe**, mungkin akan muncul peringatan:
 
