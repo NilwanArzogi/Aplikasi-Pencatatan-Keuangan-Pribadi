@@ -29,7 +29,7 @@ Mendukung penyimpanan data ke file `.csv` agar data tidak hilang.
    ```bash
    java -jar Aplikasi.Pencatatan.Keuangan.Pribadi.jar
 
-   ## ⚠️ Catatan Penting (Windows SmartScreen)
+## ⚠️ Catatan Penting (Windows SmartScreen)
 
 Ketika pertama kali menjalankan file **.exe**, mungkin akan muncul peringatan:
 
@@ -43,4 +43,5 @@ Untuk tetap menjalankan aplikasi:
 2. Pilih **Run anyway**.
 
 Aplikasi aman dijalankan karena file berasal dari kode sumber pada repository ini.
+
 
