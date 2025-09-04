@@ -28,3 +28,19 @@ Mendukung penyimpanan data ke file `.csv` agar data tidak hilang.
 3. Jalankan lewat terminal:
    ```bash
    java -jar Aplikasi.Pencatatan.Keuangan.Pribadi.jar
+
+   ## ⚠️ Catatan Penting (Windows SmartScreen)
+
+Ketika pertama kali menjalankan file **.exe**, mungkin akan muncul peringatan:
+
+> *Windows protected your PC*  
+> Microsoft Defender SmartScreen prevented an unrecognized app...
+
+Hal ini normal karena aplikasi belum memiliki tanda tangan digital resmi (**code signing certificate**).
+
+Untuk tetap menjalankan aplikasi:
+1. Klik **More info**.
+2. Pilih **Run anyway**.
+
+Aplikasi aman dijalankan karena file berasal dari kode sumber pada repository ini.
+
