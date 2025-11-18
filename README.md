@@ -20,7 +20,7 @@ Mendukung penyimpanan data ke file `.csv` agar data tidak hilang.
 - CSV
 
 ## 📷 Tampilan Aplikasi
-!<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/f15d132e-e9c7-4977-9522-a76b59565a76" />
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/f15d132e-e9c7-4977-9522-a76b59565a76" />
 
 
 ## 🚀 Cara Menjalankan
