@@ -1,6 +1,6 @@
 # 📊 Aplikasi Pencatatan Keuangan Pribadi
 
-Aplikasi desktop sederhana berbasis **Java Swing** untuk membantu mahasiswa/pelajar dalam mencatat pemasukan dan pengeluaran sehari-hari.  
+Aplikasi desktop sederhana berbasis **Java Swing** untuk membantu mahasiswa/wi,pelajar dan pekerja dalam mencatat pemasukan dan pengeluaran sehari-hari.  
 Mendukung penyimpanan data ke file `.csv` agar data tidak hilang.
 
 ## ✨ Fitur Utama
@@ -12,6 +12,12 @@ Mendukung penyimpanan data ke file `.csv` agar data tidak hilang.
   - **Saldo Akhir** 📊
 - Ekspor & impor data ke/dari file `.csv`.
 - Tampilan sederhana, ringan, dan mudah digunakan.
+
+## 🛠️ Teknologi yang Digunakan
+- Java
+- Java Swing
+- NetBeans IDE
+- CSV
 
 ## 📷 Tampilan Aplikasi
 !<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/f15d132e-e9c7-4977-9522-a76b59565a76" />
