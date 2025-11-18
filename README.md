@@ -12,6 +12,7 @@ Mendukung penyimpanan data ke file `.csv` agar data tidak hilang.
   - **Saldo Akhir** 📊
 - Ekspor & impor data ke/dari file `.csv`.
 - Tampilan sederhana, ringan, dan mudah digunakan.
+- Bisa Offline
 
 ## 🛠️ Teknologi yang Digunakan
 - Java
